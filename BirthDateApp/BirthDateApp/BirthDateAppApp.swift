@@ -13,6 +13,6 @@ struct BirthDateAppApp: App {
         WindowGroup {
             ContentView()
         }
-        .defaultSize(width: 0.3, height: 0.4, depth: 0.0, in: .meters)
+        .defaultSize(width: 0.3, height: 0.35, depth: 0.0, in: .meters)
     }
 }
